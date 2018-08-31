@@ -5,7 +5,7 @@ def bark
 end
 
 def walk
-  puts "The Person is walking"
+  puts "The Dog is sitting"
 end
 
 end
