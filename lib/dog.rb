@@ -1,6 +1,6 @@
 class Dog
 
-def talk
+def bark
  puts "Hello World!"
 end
 
